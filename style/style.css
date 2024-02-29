@@ -1,0 +1,43 @@
+/* sheard styles */
+
+body{
+    font-family: "Open Sans", sans-serif;
+}
+.text-primary{
+    color: #FD6E0A;
+}
+.btn-primary{
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+/* nav style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+}
+nav li a{
+    text-decoration: none;
+    margin-right: 51px;
+    color: #474747;
+
+}
+.nav-text{
+    color: #FD6E0A;
+}
+.nav-title{
+    font-size: 45px;
+}
